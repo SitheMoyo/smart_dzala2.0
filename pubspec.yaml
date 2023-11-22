@@ -13,6 +13,7 @@ dependencies:
 
   flutter:
     sdk: flutter
+  url_launcher: ^6.0.12
   geolocator: ^10.1.0
   syncfusion_flutter_charts: ^21.1.41
   google_maps_flutter: ^2.2.5
